@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpu_catalog>
+  <gpu>
+    <image>img_01.jpg</image>
+    <model>Nvidia GeForce GT 1030 2GB GDDR5</model>
+    <manufacturer>Nvidia</manufacturer>
+    <memory>2 GB GDDR5</memory>
+    <price>169</price>
+  </gpu>
+  <gpu>
+    <image>img_01.jpg</image>
+    <model>Nvidia GeForce GTX 1650 EX 4GB GDDR6</model>
+    <manufacturer>Nvidia</manufacturer>
+    <memory>4 GB GDDR6</memory>
+    <price>300</price>
+  </gpu>
+  <gpu>
+    <image>img_02.jpg</image>
+    <model>Nvidia GeForce RTX 3060 Gaming OC 8GB GDDR6</model>
+    <manufacturer>Nvidia</manufacturer>
+    <memory>8 GB GDDR6</memory>
+    <price>530</price>
+  </gpu>
+  <gpu>
+    <image>img_03.jpg</image>
+    <model>Nvidia GeForce RTX 4060 OC 8GB GDDR6</model>
+    <manufacturer>Nvidia</manufacturer>
+    <memory>8 GB GDDR6</memory>
+    <price>600</price>
+  </gpu>
+  <gpu>
+    <image>img_04.jpg</image>
+    <model>Nvidia GeForce RTX 4060 Ti Eagle OC 8GB GDDR6</model>
+    <manufacturer>Nvidia</manufacturer>
+    <memory>8 GB GDDR6</memory>
+    <price>839</price>
+  </gpu>
+  <gpu>
+    <image>img_05.jpg</image>
+    <model>Nvidia GeForce RTX 4060 Ti Ventus 3X 16GB OC GDDR6</model>
+    <manufacturer>Nvidia</manufacturer>
+    <memory>16 GB GDDR6</memory>
+    <price>1039</price>
+  </gpu>
+  <gpu>
+    <image>img_06.jpg</image>
+    <model>Nvidia GeForce RTX 4070 EX Gamer 12GB GDDR6X</model>
+    <manufacturer>Nvidia</manufacturer>
+    <memory>12 GB GDDR6X</memory>
+    <price>1159</price>
+  </gpu>
+  <gpu>
+    <image>img_07.jpg</image>
+    <model>Nvidia GeForce RTX 4070 Aero OC 12GB GDDR6X</model>
+    <manufacturer>Nvidia</manufacturer>
+    <memory>12 GB GDDR6X</memory>
+    <price>1300</price>
+  </gpu>
+  <gpu>
+    <image>img_08.jpg</image>
+    <model>Nvidia GeForce RTX 3080 10GB GDDR6X</model>
+    <manufacturer>Nvidia</manufacturer>
+    <memory>10 GB GDDR6X</memory>
+    <price>1318</price>
+  </gpu>
+  <gpu>
+    <image>img_09.jpg</image>
+    <model>Nvidia GeForce RTX 4080 Gaming OC 16GB GDDR6X</model>
+    <manufacturer>Nvidia</manufacturer>
+    <memory>16 GB GDDR6X</memory>
+    <price>2400</price>
+  </gpu>
+  <gpu>
+    <image>img_11.jpg</image>
+    <model>Nvidia GeForce RTX 4090 Aero OC 24GB GDDR6X</model>
+    <manufacturer>Nvidia</manufacturer>
+    <memory>24 GB GDDR6X</memory>
+    <price>2500</price>
+  </gpu>
+  <gpu>
+    <image>img_12.jpg</image>
+    <model>Nvidia GeForce RTX 4090 Platinum 24GB GDDR6X</model>
+    <manufacturer>Nvidia</manufacturer>
+    <memory>24 GB GDDR6X</memory>
+    <price>7200</price>
+  </gpu>
+  <gpu>
+    <image>img_13.jpg</image>
+    <model>AMD Radeon RX 7600 8GB GDDR6</model>
+    <manufacturer>AMD</manufacturer>
+    <memory>8 GB GDDR6</memory>
+    <price>519</price>
+  </gpu>
+  <gpu>
+    <image>img_14.jpg</image>
+    <model>AMD Radeon RX 7600 Challenger OC 8GB GDDR6</model>
+    <manufacturer>AMD</manufacturer>
+    <memory>8 GB GDDR6</memory>
+    <price>519</price>
+  </gpu>
+  <gpu>
+    <image>img_15.jpg</image>
+    <model>AMD Radeon RX 7700 XT Challenger OC GDDR6</model>
+    <manufacturer>AMD</manufacturer>
+    <memory>12GB GDDR6</memory>
+    <price>899</price>
+  </gpu>
+  <gpu>
+    <image>img_16.jpg</image>
+    <model>AMD Radeon RX 7800 XT Challenger OC 16GB GDDR6</model>
+    <manufacturer>AMD</manufacturer>
+    <memory>16 GB GDDR6</memory>
+    <price>1000</price>
+  </gpu>
+  <gpu>
+    <image>img_17.jpg</image>
+    <model>AMD Radeon RX 7800 XT Gaming 16GB GDDR6</model>
+    <manufacturer>AMD</manufacturer>
+    <memory>16 GB GDDR6</memory>
+    <price>1099</price>
+  </gpu>
+  <gpu>
+    <image>img_18.jpg</image>
+    <model>AMD Radeon RX 7900 XT TAICHI 20GB OC GDDR6</model>
+    <manufacturer>AMD</manufacturer>
+    <memory>20 GB GDDR6</memory>
+    <price>1599</price>
+  </gpu>
+  <gpu>
+    <image>img_19.jpg</image>
+    <model>AMD Radeon RX 7900 XTX Gaming OC 24GB GDDR6</model>
+    <manufacturer>AMD</manufacturer>
+    <memory>24 GB GDDR6</memory>
+    <price>1799</price>
+  </gpu>
+  <gpu>
+    <image>img_20.jpg</image>
+    <model>AMD Radeon RX 7900 XTX AQUA 24GB OC GDDR6</model>
+    <manufacturer>AMD</manufacturer>
+    <memory>24 GB GDDR6</memory>
+    <price>2199</price>
+  </gpu>
+</gpu_catalog>
+
